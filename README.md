@@ -2,4 +2,4 @@
 Examination
 Madathumpadi(H),
 Perumbillissery,(P.O) Cherpu,
-Thrissur,Kerala,India,PIn:680561
+Thrissur,Kerala,India,Pin:680561
